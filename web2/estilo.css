@@ -1,0 +1,89 @@
+*{
+	background-color: rgb(140, 3, 3);
+	/*border: 1px solid purple;*/
+}
+a{
+	color: #ffffff;
+}
+a:hover{
+	/*color: rgb(0, 0, 0);*/
+	cursor: pointer;
+}
+b{
+	font-size: 240%
+}
+p {
+	color: #fcfcfc;
+}
+h1{
+	color: #ffffff;
+}
+button {
+	background-color: rgb(140, 3, 3);
+	border: 2px solid #ffffff;
+	color: #ffffff;
+	padding: 5px 10px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 15px;
+	border-radius: 500px;
+  }
+button:hover{
+	cursor: pointer;
+}
+h2{
+	color: #ffffff;
+}
+h2:hover{
+	color: rgb(0, 0, 0);
+	/*font-size: 220%;*/
+	cursor: pointer;
+}
+.menu{
+	background-color: black;
+	overflow: hidden;
+}
+.menu a{
+	float: left;
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	font-size: 18px;
+}
+.menu a:hover{
+	background-color: white;
+	color: black;
+}
+.menu a.active{
+	background-color: white;
+	color: black;
+}
+.pesquisa{
+	float: right;
+	color: #ffffff;
+	width: null;
+	height: null;
+	border-radius: null;
+}
+input{
+	border-radius: 500px;
+	background-color: null;
+	border-color: null;
+	width: 150px;
+	text-align: left;
+	color: #ffffff;
+}
+label{
+	color: #ffffff
+}
+table{
+	background-color: white;
+}
+th{
+	color: white;
+}
+td{
+	color: white;
+}
